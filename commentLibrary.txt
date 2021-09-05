@@ -1,0 +1,3 @@
+'Cutie', 'Cuteness overload!', 'This is a brilliant picture!', 'Wow!', 'Meow ;)', 'Purrfect compostion!', 'Lovely!',
+'I am a cat! Meow!', 'I have a huge food intolerance to sushi. Ironical... :c', 'Cute but deadly! Yay! :)',
+'I like this vibe!',
